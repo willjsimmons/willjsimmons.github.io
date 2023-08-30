@@ -29,4 +29,4 @@ include:
   - .nojekyll
   - _data
 plugins:
-  - jekyll-gist
+  - jekyll-gist 
