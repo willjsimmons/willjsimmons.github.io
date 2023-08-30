@@ -11,7 +11,7 @@ labels:
   - Programming
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/ES6aSyntacticComparison/JavaScriptImage.jpg">
+<img width="100px" class="rounded float-start pe-4"  src="../img/ES6aSyntacticComparison/JavaScriptImage.jpg">
 
 
 What do you think about Javascript so far?
@@ -26,9 +26,16 @@ As far as the fundamental metric, "Does Javascrapt allow "
 learning curve.
 
 
-An Athletic Approach:
+### An Athletic Approach to Language Analysis:
+
     For the longest time common practice has been for educators, and even those that teach themselves a new skill to teach to the tool instead of the problem.
-    Language learning like any skill should not be the goal in and of it self.
+    Language learning like any skill should not be the goal in and of it self. Thus to be able to test your mastery of this or any language you must use it. 
+    One very effective approach is the athletic approach. This approach involves developing a set of problems specifically for testing your skills, in a significantly time constrained setting.
+    one idea when you first are learning is to pick a standard set of existing problems that can be solved using multiple languages. This way it is possible to compare the New tool to ones you are familiar with. 
+     Skill and Knowledge retention is greatly increased when the things you learn are easily related to things that are familiar. The time constraint also serves as a borrometer for your current level of understanding and can be use.
+    
+## Conclusion
+    It can thus be said that utility is subjective.While you may have a particular affinity for a hammer It is great to have favorite tools only when paired with a purpose it is your favorite for. Javascript is an excellent language particularly for the purpose it was designed for namely, adding interactivity to the web. Learning  a language such as Javascript using an Athletic Approach is a great way to compare languages for your self. the more tools in your own box.
 
 
 
