@@ -11,7 +11,7 @@ labels:
   - Programming
 ---
 
-<img width="100px" class="rounded float-start pe-4"  src="../img/ES6aSyntacticComparison/JavaScriptImage.jpg">
+<img width="100%" class="rounded float-start pe-4"  src="../img/ES6aSyntacticComparison/JavaScriptImage.jpg">
 
 
 What do you think about Javascript so far?
