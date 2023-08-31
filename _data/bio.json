@@ -71,7 +71,16 @@
         "Adobe Brakets"
 
       ]
+    },
+        {
+            "name": "Aviation",
+            "level": "Private Pilot Certificate",
+            "keywords": [
+        "Private Pilot Certificate held",
+        "Instrument Checkride Pending"
+      ]
     }
+        
   ],
     "education": [
         {
@@ -97,13 +106,7 @@
             "endDate": "Present",
             "summary": "Performs clerical and administrative tasks to ensure the efficient operation of a Torrance CA based supplement manufacturing plant."
         },
-        {
-            "company": "New Lima Enterprises Inc",
-            "position": "Founder",
-            "startDate": "2015-03-01",
-            "endDate": "Present",
-            "summary": "Founder of New Lima Enterprises Inc, based in Los Angeles, California."
-        },
+
         {
             "company": "Microsoft",
             "position": "Assisted Sales Associate",
@@ -125,6 +128,13 @@
             "endDate": "2016-04-01",
             "summary": "Sales associate position at Tommy Bahama in Honolulu, Hawaii."
         }
+                  {
+            "company": "New Lima Enterprises Inc",
+            "position": "Founder",
+            "startDate": "2015-03-01",
+            "endDate": "2018-01-01",
+            "summary": "Founder of New Lima Enterprises Inc, based in Los Angeles, California."
+        },
     ],
     "volunteer": [
         {
@@ -132,7 +142,7 @@
             "website": "",
             "position": "Organizer",
             "startDate": "2016-01-01",
-            "endDate": "Present",
+            "endDate": "2017-01-01",
             "summary": "Organized educational projects in underserved communities.",
             "highlights": [
             "provided educational resources to students in underserved communities.",
