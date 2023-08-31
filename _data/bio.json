@@ -75,50 +75,57 @@
   ],
     "education": [
         {
-            "institution": "University of Hawaii, Honolulu, HI",
-            "area": "Computer Science (expected Spring, 2020)",
-            "studyType": "B.S.",
-            "startDate": "2015-08-01",
-            "endDate": "Present",
-            "gpa": "",
-            "courses": [
-          "ICS 311",
-          "ICS 314",
-          "ICS 241",
-          "ICS 141",
-          "ICS 111",
-          "ICS 211",
-      ]
-    }
-  ],
-    "work": [
+            "institution": "University of Hawaii at Manoa",
+            "area": "Computer Science",
+            "studyType": "Bachelor's degree",
+            "startDate": "2022-08-01",
+            "endDate": "2023-05-01 (Expected)"
+        },
         {
-            "company": "Team Topiary Landscaping Services",
-            "position": "Co-Owner",
-            "website": "Teamtopiary.com",
-            "startDate": "2015-08-01",
+            "institution": "University of Hawaii at Manoa",
+            "area": "Computer Science",
+            "studyType": "",
+            "startDate": "2015-05-01",
+            "endDate": "2019-01-01"
+        }
+    ],
+      "work": [
+        {
+            "company": "Optimum resolve inc",
+            "position": "Administrative Assistant",
+            "startDate": "2022-05-01",
             "endDate": "Present",
-            "summary": "Head of online presence for Ka Leo",
-            "highlights": [
-     "Operates and oversees Microsoft Dynamics CRM Business Lead pipeline, in the absence of store Business Sales Specialist, and Business Expert.",
-     "Consistently ranks within the top five associates for quarterly net revenue and salesfloor cloud sales.",
-     "Consistently leads team in salesfloor business sales by net sales, directly impacting stores P & L."
-
-      ]
-    },
+            "summary": "Performs clerical and administrative tasks to ensure the efficient operation of a Torrance CA based supplement manufacturing plant."
+        },
+        {
+            "company": "New Lima Enterprises Inc",
+            "position": "Founder",
+            "startDate": "2015-03-01",
+            "endDate": "Present",
+            "summary": "Founder of New Lima Enterprises Inc, based in Los Angeles, California."
+        },
+        {
+            "company": "Microsoft",
+            "position": "Assisted Sales Associate",
+            "startDate": "2021-04-01",
+            "endDate": "2022-03-01",
+            "summary": "Assisted sales associate position at Microsoft in Honolulu, Hawaii, United States."
+        },
         {
             "company": "Microsoft",
             "position": "Product Advisor",
-            "website": "",
-            "startDate": "2015-08-01",
-            "endDate": "Present",
-            "summary": "A position in sales and service",
-            "highlights": [
-        "sugest and provide information to clients "
-      ]
-    },
-
-  ],
+            "startDate": "2017-10-01",
+            "endDate": "2019-03-01",
+            "summary": "Product Advisor position at Microsoft, focusing on actively contributing to in-store business team and generating reports for store management."
+        },
+        {
+            "company": "Tommy Bahama",
+            "position": "Sales Associate",
+            "startDate": "2015-10-01",
+            "endDate": "2016-04-01",
+            "summary": "Sales associate position at Tommy Bahama in Honolulu, Hawaii."
+        }
+    ],
     "volunteer": [
         {
             "organization": "One Village Foundation",
@@ -131,20 +138,7 @@
             "provided educational resources to students in underserved communities.",
       ]
     },
-  ], "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  ], 
     "references": [
         {
             "name": "Available upon request",
