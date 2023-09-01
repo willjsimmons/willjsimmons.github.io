@@ -17,8 +17,7 @@
         "profiles": [
       { "network": "github", "username": "willjsimmons", "url": "http://github.com/willjsimmons" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/willjsimmons/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+
     ]
     },
     "interests": [
