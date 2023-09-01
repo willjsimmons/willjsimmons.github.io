@@ -15,16 +15,10 @@
             "region": "Hawaii"
         },
         "profiles": [
-            {
-                "network": "github",
-                "username": "willjsimmons",
-                "url": "http://github.com/willjsimmons"
-      },
-            {
-                "network": "linkedin",
-                "username": "willjsimmons",
-                "url": "http://www.linkedin.com/in/willjsimmons/"
-      }
+      { "network": "github", "username": "willjsimmons", "url": "http://github.com/willjsimmons" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/willjsimmons/" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
     },
     "interests": [
@@ -127,14 +121,14 @@
             "startDate": "2015-10-01",
             "endDate": "2016-04-01",
             "summary": "Sales associate position at Tommy Bahama in Honolulu, Hawaii."
-        }
+        },
                   {
             "company": "New Lima Enterprises Inc",
             "position": "Founder",
             "startDate": "2015-03-01",
             "endDate": "2018-01-01",
             "summary": "Founder of New Lima Enterprises Inc, based in Los Angeles, California."
-        },
+        }
     ],
     "volunteer": [
         {
