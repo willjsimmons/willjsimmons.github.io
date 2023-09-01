@@ -16,7 +16,7 @@
         },
         "profiles": [
       { "network": "github", "username": "willjsimmons", "url": "http://github.com/willjsimmons" },
-      { "network": "linkedin", "username": "willjsimmons", "url": "http://linkedin.com/in/willjsimmons/" },
+      { "network": "linkedin", "username": "willjsimmons", "url": "http://linkedin.com/in/willjsimmons/" }
 
     ]
     },
