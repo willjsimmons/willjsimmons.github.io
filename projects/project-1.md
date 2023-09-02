@@ -11,7 +11,7 @@ labels:
   - WIP
   - Php
   - MVC Framework
-summary: My ongoing journey navigate the Pacific skies.
+summary: My ongoing journey navigating the Pacific skies.
 ---
 <img src="../img/View.jpg" alt="aviationpic"\>
 
