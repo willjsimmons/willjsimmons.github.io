@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: View.jpg
+image: img/View.jpg
 title: Aviation Journey
 permalink: projects/aviationjourney
 # All dates must be YYYY-MM-DD format!
