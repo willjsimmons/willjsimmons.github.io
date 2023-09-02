@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/accounting.png
-title: Accountingv2
-permalink: projects/accountingv2
+image: img/Aviation%2520Journey/.jpg
+title: Aviation Journey
+permalink: projects/aviationjourney
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-01
+date: 2023-09-01
 labels:
   - Mysql
   - WIP
@@ -13,21 +13,7 @@ labels:
   - MVC Framework
 summary: A wamp based personal accounting solution.
 ---
-
-Accounting v2 represents my first dive into wamp based Full stack web development.
-the backlog includes integration with microsoft outlook for bill reminders and other tools using microsoft graph restfull apis.
-It is planned that this particular project will leverage javascript ajax for server and api communications. 
-This softwear will also use the plaid api to import bank transactions in a quickbookesque manner.
-
-The idea for this tool came about after using microsoft acces for personal bookeeping and financial management. 
-It was found that while robust, access offered limited to no options for remotly accessing or updating the application.
-In addition to this access as a general purpose database tool didn't offer the type of specialization needed for financial management.
-It was thusly decided that implementation as a web app would provide the best route. 
-
-other than third party apis this project is strictly my own and was fully developed by myself and has gone through several itterations and modifications of which we are currently on the third. 
-
-
-You can learn more at the .
-
+<img src="../img/Aviation%2520Journey/View.jpg">
+On september 3rd 2019 I began my Aviation Journey with an introductory flight at Kalaeloa. including the attainment of a Private Pilot License (PPL) and subsequent ratings. This project provides a comprehensive account of my aviation milestones, from the foundational PPL to additional certifications such as Instrument and Commercial ratings. Through dedicated training and continuous learning, I have expanded my expertise in areas such as navigation, flight planning, and advanced flight maneuvers. This ongoing project not only highlights my commitment to excellence in aviation but also serves as a platform for further expansion and reflection on my journey in the skies.
 
 
