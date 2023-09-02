@@ -5,7 +5,7 @@ image: img/Articles.png
 title: Optimum Resolve and Corporate Compliance
 permalink: projects/Optimum Resolve
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-03
+date: 2023-09-01
 labels:
   - Corporate Filing
   - Website Development
