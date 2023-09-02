@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Document%2520Filing/Articles.png
+image: img/Articles.png
 title: Optimum Resolve and Corporate Compliance
 permalink: projects/Optimum Resolve
 # All dates must be YYYY-MM-DD format!
