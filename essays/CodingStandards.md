@@ -11,7 +11,7 @@ labels:
   - Programming
 ---
 
-<img width="100%" class="rounded float-start pe-4"  src="../img/ES6aSyntacticComparison/JavaScriptImage.jpg">
+<img width="100%" class="rounded float-start pe-4"  src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/09/CleanCode.jpg?w=800&ssl=1">
 # Standards, and The line between good And Legal
 
 What would it be like to live in a world without standards? Standards are the fundamental underpinnings of the entire society. Before the standardization of measurements, people would often use, and reference measurements based on things that everyone had access to. One example of these archaic measurement systems is the cubit. A cubit was defined as the length from the elbow to the tip of the middle finger. With centuries of experience under our collective belts, In 2023 it is abundantly apparent that this system is flawed, as your cubit is likely not the same as mine or your neighbor’s. What standardization does is ensure that my inch is equal to yours, that my centimeter and kilogram etc. are also equal to yours. It would be nearly impossible to build anything if everyone had differently marked tape measures. Imagine a world where everyone invented their own grammar and there was no concept of correct punctuation, you could put extra spaces wherever you like, it would make reading an impractical nightmare. A world without standards is a world full of Chaos. 
