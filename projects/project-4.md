@@ -11,7 +11,7 @@ labels:
   - Team-Project
   - Issue-Driven Development
   - Agile Development
-summary: My ongoing journey navigating the Pacific skies.
+summary: Software Engineering at its finest, as demonstrated by the ES6-enthusiasts.
 ---
 <img class="img-fluid" src="https://es6-enthusiasts.github.io/images/tutorial/cookbook.png">
 
