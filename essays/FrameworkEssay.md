@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI frameworks and why they are usefull"
+title: "UI frameworks, and why they are useful"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
 published: true

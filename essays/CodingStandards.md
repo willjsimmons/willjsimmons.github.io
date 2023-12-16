@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standard, why Lint is great for your code."
+title: "Coding Standard, why Lint is great for your code"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
 published: true
@@ -16,7 +16,7 @@ labels:
 
 What would it be like to live in a world without standards? Standards are the fundamental underpinnings of the entire society. Before the standardization of measurements, people would often use, and reference measurements based on things that everyone had access to. One example of these archaic measurement systems is the cubit. A cubit was defined as the length from the elbow to the tip of the middle finger. With centuries of experience under our collective belts, In 2023 it is abundantly apparent that this system is flawed, as your cubit is likely not the same as mine or your neighbor’s. What standardization does is ensure that my inch is equal to yours, that my centimeter and kilogram etc. are also equal to yours. It would be nearly impossible to build anything if everyone had differently marked tape measures. Imagine a world where everyone invented their own grammar and there was no concept of correct punctuation, you could put extra spaces wherever you like, it would make reading an impractical nightmare. A world without standards is a world full of Chaos. 
 
-## The connection to code.
+## The connection to code
 The big question then is, if standards can maintain an orderly society, why wouldn't it be blatantly apparent that standards be applied to things so critical as code? In this sense, we are talking about the standardization of coding style. The languages developers use to code are themselves codified in what is known as a Language Standard which provides the bare minimum as to what is valid code. Although language standards outline what is legal, it does not mean that they always equate to what is good. For example, according to the c language standard, it is perfectly legal to type your entire program as one long line of code without any carriage returns. However, it would be awful to read one incredibly long line of code and how terrible to debug it! In essence, not implementing coding style standards is equivalent to operating off the technical difference between good code, and valid code. Just because a compiler or interpreter does not complain does not make you a good programmer.
 
 ## Why Lint?

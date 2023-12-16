@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Its in the way you ask!"
+title: "Its all in the way you ask!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-6
 published: true
@@ -11,9 +11,13 @@ labels:
 
 ---
 
-# What makes a question good or bad
-I remember as a young man asking my uncle what he called a rather Stupid question.
-he quickly retorted with an example. He said, "Now William a smart question is What are you eating? and a Stupid question is Why are you eating?". While in some contexts such as eating in a food free library or computer lab the second question makes sense 85% of the time this is not the case. Nevertheless, I nodded tacitly and continued my breakfast, as his point was understood.
+# What makes a great question?
+
+I remember as a young man asking my uncle what he classified as and in his words "a rather Stupid question".
+he quickly retorted with an example of what meets this qualification. He said, "Now William a smart question is What are you eating? and a Stupid question is Why are you eating?".
+While asking why you are eating is a valid question, in some limited contexts such as when one is eating in a food free library or computer lab or other place where eating is prohibited 
+most of the time it is a senseless question, as humans eat to fulfill a physiological need.
+.the second question makes sense 85% of the time this is not the case. Nevertheless, I nodded tacitly and continued my breakfast, as his point was understood.
 In essence It is very easy, and almost natural not to spend the extra brainpower to come up with good questions.
 It is for this reason that up until recently internet support forums were full of stupid questions.
 More commonly now however these less than helpful questions are quickly discarded by both human and automatic forum moderators.
@@ -24,7 +28,7 @@ Good questions require you to have done your own research. Along this line of th
 one example of a bad questions is this question here on stack exchange [article](https://stackoverflow.com/questions/21865997/c-beginner-need-guidance). The linked Message follows the fundamental bad question format. I am new... why doesn’t [insert code blob here] work.  In essence the question is not specific. The asker basically throws up their hands and says I have written something, and I don't know what it is or why it doesn't work. This is where it is paramount to do your own research. Although this question clearly violates Raymonds rules in the before you ask, and many in the when you ask section.
 the community was gracious enough to answer, however.
 
-## Simple isn’t always bad.
+## Simple isn’t always bad
 
 One way to measure the value of a question is to see how many times it was upvoted. A stupid question may not be stupid the first time it is asked. [Here](https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean) is an example of this. Questions that may otherwise be considered stupid but have a large question base usually fall under the category of frequently asked questions. Here the community gathered around to help answer a simple definition that had been confusing developers for a while. Therefore, the question is simple, but it is specific enough to generate discourse, and therefore it is not necessarily stupid. Somewhat-Smart questions often spark meaningful discussions and offer unique insights, making them valuable. These questions can uncover hidden complexities within seemingly straightforward topics. As seen in the provided Stack Overflow example, even seemingly basic inquiries can foster a supportive community eager to share their knowledge and experiences.
 

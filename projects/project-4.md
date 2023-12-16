@@ -9,7 +9,7 @@ date: 2023-12-10
 labels:
   - Software engineering
   - Team-Project
-  - Issue-Driven 
+  - Issue-Driven Development
 summary: My ongoing journey navigating the Pacific skies.
 ---
 <img class="img-fluid" src="https://es6-enthusiasts.github.io/images/tutorial/home.png">
