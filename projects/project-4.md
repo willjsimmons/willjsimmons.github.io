@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: img/CCCmokup.png
-title: Aviation Journey
+image: img/CCCMokup.png
+title: College Cuisine Connection
 permalink: projects/CollegeCuisineConnection
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-10
 labels:
   - Software engineering
-  - Team Development
+  - Team-Project
+  - Issue-Driven 
 summary: My ongoing journey navigating the Pacific skies.
 ---
 <img class="img-fluid" src="https://es6-enthusiasts.github.io/images/tutorial/home.png">
