@@ -11,7 +11,8 @@ labels:
   - Programming
 ---
 <img width="100%" class="rounded float-start pe-4"  src="https://getbootstrap.com/docs/4.0/examples/screenshots/album.png">
-## frameworks explained
+
+# Frameworks explained
 
 It is often said that to achieve big things it is important to stand on the shoulders of the Giants. It is hardly possible to get through a single computer science course without talking about layers of abstraction, and In essence, these frameworks are just one layer of abstraction away from the base-level CSS selectors. One of the beautiful things however is that with the framework model Developers still have access to the raw CSS, thereby allowing websites to be pixel-perfect to the designer's vision. This is to say that the plumbing of Bootstrap is the raw css that developers know and are accustomed to. In addition to this, this means that there is a minimal learning curve for adopting or transitioning to new frameworks; learn the naming convention and some key features, and you are on your way.
 

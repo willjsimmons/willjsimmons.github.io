@@ -20,9 +20,9 @@ The distinction between software engineering and programming is analogous to and
 Software engineering as a discipline encompasses aspects of teamwork and design and requires higher-order conceptual understanding.
 A great programmer can implement, an architect designs and a software engineer blends the two and ensures structure and soundness. 
 
-## software engineering in school
+## Software engineering in school
 
-A great educational experience while teaching you programming focuses much more on the engineering aspect.
+For a computer science curriculum to be considered great  teach programming focuses much more on the engineering aspect.
 As a beginning computer science student, you are unwittingly given the language-agnostic tools to begin to engineer and craft software. Early on students are introduced to data structures and algorithms that are not specific to any language.
 It is perfectly possible to write valid code in c, C++ Lisp, java, or any other language without a formal knowledge of data structures, or algorithms but it would be nearly impossible to engineer, or design anything of particular complexity. 
 At the same time data structures and algorithms are just tools and do not an engineer make.
@@ -34,12 +34,12 @@ The cohesiveness of the team, architecture, and design of the software. This ste
 Like many ICS courses, software engineering courses teach you how to program, more importantly however you learn how to interact and work in a team. 
 Interpersonal skills are critical and top of mind for any great software engineer. Although there are often people selected
 or hired for the specific purpose of project management, the ultimate responsibility for the outcome of any given work falls on the individuals
-that directly produce it. Being a software engineer means being self motivated, and working well with others.
+that directly produce it. Being a software engineer means being self-motivated, and working well with others.
 
 ## Be an engineer, not a programmer
 
 In conclusion, as software engineers, we are responsible for more than just programming. The issues with effective teamwork are extensive.
-Managing a codebase using git, and Kaban boards, keeping on task, and dealing with team members who do not live up to the team's expectations are all part of the journey. 
+Managing a codebase using git, and Kanban boards, keeping on task, and dealing with team members who do not live up to the team's expectations are all part of the journey. 
 Managing personalities and organizing people toward a common goal is the fundamental responsibility of the software engineer.
 Software engineering invariably requires a mastery of data structures, and algorithms as well as an aptitude for creative thinking.
 Finally Software engineering bridges the gap between art and science, as design choices and technical choices all fall on the software engineer.
