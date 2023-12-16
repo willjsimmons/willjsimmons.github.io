@@ -21,7 +21,10 @@ And improved their Source Control, Javascript, and Meteor skills. Given that thi
 In the end our team met most of our goals, and maintained a copacetic, positive and effective environment.
 ## My Responsibilities
 
-For this project, I was responsible for about 25% of the commits on the main repository. A good portion of what I contributed, directly 
+For this project, I was responsible for about 25% of code additions to the main repository. A good portion of what I contributed, served as the core functioning code of the project, 
+and was leveraged by my team-mates to create their own UI Components. Much of the structure and design related to Recipes, profile creation for our community section and authentication
+fell under my controll. 
+
 ## Why it matters
 
 Developing team skills and learning the processes involved in working on complicated projects is essential. In addition to this, this project taught each of our team members how to be flexible, and to 
