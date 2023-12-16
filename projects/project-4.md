@@ -19,10 +19,10 @@ In fall of 2023 as part of a Software engineering course, a group of four studen
 We undertook this project in park to help develop our team skills and to learn and practice Agile and Issue-driven development. During the course of this project, all team members sharpened their mental tools
 And improved their Source Control, Javascript, and Meteor skills. Given that this project was developed mainly in javascript our team opted for the name ES6-Enthusiasts (ES or ecmascript being a variant of javascript).
 In the end our team met most of our goals, and maintained a copacetic, positive and effective environment.
-## My Responsibilities.
+## My Responsibilities
 
 For this project, I was responsible for about 25% of the commits on the main repository. A good portion of what I contributed, directly 
-## Why it matters.
+## Why it matters
 
 Developing team skills and learning the processes involved in working on complicated projects is essential. In addition to this, this project taught each of our team members how to be flexible, and to 
 efficiently address unexpected setbacks. Finally, This project is intended to help serve our community. From an ethics standpoint, it is the duty of any software engineer that can help people, to attempt to help others.

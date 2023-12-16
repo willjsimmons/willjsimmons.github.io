@@ -24,5 +24,5 @@ As I continue to advance in my academic and professional journey, this project s
 ## Why it matters
 This project was valuable in that it allowed me to explore my strengths and weaknesses when it comes to development. Namely due to the fact that it is Multi-language and each system requires a different kind of thinking. It served as a learning experience with immense practical value for the end user.
 
-## what is next
+## What is next
 I plan to maintain and improve upon this code base as long as the company is in business. I am even considering a reimplementation of the project with the new knowledge I have from the first implementation.
