@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Don't reinvent the wheel: A look into design patterns | William Simmons | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/willjsimmons.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="William Simmons | Professional Portfolio">
+    <meta property="og:url" content="https://willjsimmons.github.io/essays/DesignPatterns.html">
+    <meta property="og:title" content="Don't reinvent the wheel: A look into design patterns | William Simmons | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/willjsimmons.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Don't reinvent the wheel: A look into design patterns | William Simmons | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">William Simmons</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Don't reinvent the wheel: A look into design patterns</h1>
+  <span class="date">30 Nov 2023</span>
+  <hr>
+  <p><img width="100%" class="rounded float-start pe-4" src="https://cdn.shortpixel.ai/spai2/q_glossy+w_1595+to_auto+ret_img/designeverest.com/wp-content/uploads/2023/01/what-is-the-role-of-an-architect-in-building-a-house-1629876140.jpg" /></p>
+
+<h1 id="try-not-to-reinvent-the-wheel">Try not to reinvent the wheel</h1>
+<p>Computer science as a discipline relies fundamentally on layers of abstraction. The life work of thousands of software engineers, electrical engineers, chemists, and other professionals has gone into the construction and design of the various laptops used to write this article. The truth is that everything that we touch is built upon systems and tools that have already been developed. A huge part of software engineering is efficiency. Although the stereotype for computer scientists is of insanely driven and intelligent individuals, brainpower is a finite resource. Like memory and processing power, it is best to be conserved wherever possible. Design patterns provide tried and true (often language-agnostic) patterns that efficiently address common problems. Good design patterns are simple to understand and remember. Design patterns have a similar relationship to program structure as data structures have to data; they both help to organize, standardize, and provide structure to a code-base. Furthermore, there are even design patterns that help to manage data structures in and of themselves.  Typically design patterns are Taught to students and can provide a source of commonality in communication. When someone references the factory pattern, it immediately provides the rest of the development team with some insight as to what a program component is doing.</p>
+
+<h2 id="the-factory-pattern">The factory pattern</h2>
+<p>Fans of object-oriented programming, particularly those involved in game development, will likely be familiar with the factory design pattern.  The factory pattern leverages one of the core O.O.P principles, polymorphism, to allow a single entity to create instances of several sub-classes. In essence, since objects that are inherited from the same class, let’s say a factory object will have methods to make for in the context of game development, the factory pattern is lovely for spawning entities in a game.</p>
+
+<h2 id="the-mvc-pattern">The MVC pattern</h2>
+<p>Firstly, the model or data model is what stores the dynamic content. The views serve to determine how the data is presented to a user. The controller handers interaction and determines which views and data model elements to show. This design pattern is particularly applicable to the development of web applications. MVC conceptual divides an application into three major components. An excellent example of a loose implementation of this design pattern is a meteor. Meteor provides all three components. Meteor uses by default MongoDB. as its data model, 
+Handles</p>
+
+<h2 id="the-singleton-pattern">The singleton pattern</h2>
+<p>This pattern is useful when you would like to ensure that only a single instance of a class is created. In essence a developer creates a class where everything is static except for a single function which serves as a false constructor. In my experience as a developer this pattern has been useful for generating large monolithic objects that manage entire segments of your software. An example of this is the renderer in a game engine.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>In the end Design patterns provide simple easy templates that can keep your project organized. Most of the time design patterns are viewed in the context of software engineering, although the fundamental concept stems from and applies to any complex system. It is helpful to increase understanding in a course at Uh Manoa. An example of a design pattern in a different context would be the design of an airplane. All airplanes have some sort of wing, a fuselage, an empennage, and landing gear. As an aircraft designer, you do not need to wonder whether to include wings or how to make the contraption fly. This frees engineers’ minds to focus on decisions relevant to the specific implementation within these design patterns. There is much flexibility in how the wings are created and where the wings are attached, but an airplane has wings and engineers know it. Another design pattern for flying machines is the helicopter. As an airplane has wings a helicopter has rotors. To create your own flying machine, you must make several decisions. Design patterns help to organize these decisions. In software as in aviation the sky is the limit.</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

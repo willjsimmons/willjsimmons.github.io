@@ -1,0 +1,151 @@
+{
+    "basics": {
+        "name": "William Simmons",
+        "label": "Student",
+        "picture": "https://github.com/willjsimmons.png",
+        "email": "wjs7@hawaii.edu",
+        "phone": "(310)9266925",
+        "website": "https://willjsimmons.github.io",
+        "summary": "An adept leader who has developed and demonstrated superior skills in diverse and dynamic environments. Student of the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+        "location": {
+            "address": "",
+            "postalCode": "96822",
+            "city": "Honolulu",
+            "countryCode": "USA",
+            "region": "Hawaii"
+        },
+        "profiles": [
+      { "network": "github", "username": "willjsimmons", "url": "http://github.com/willjsimmons" },
+      { "network": "linkedin", "username": "willjsimmons", "url": "http://linkedin.com/in/willjsimmons/" }
+
+    ]
+    },
+    "interests": [
+        {
+            "name": "Graphics Programing",
+            "keywords": [
+        "Vulkan",
+        "Opengl"
+      ]
+    },
+        {
+            "name": "Web development",
+            "keywords": [
+      ]
+    },
+        {
+            "name": "Cloud",
+            "keywords": [
+          "Microsoft Azure",
+          "AWS"
+      ]
+    }
+  ],
+    "skills": [
+        {
+            "name": "Languages and Frameworks",
+            "level": "Proficient",
+            "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "PHP",
+        "Spanish"
+      ]
+    },
+        {
+            "name": "Toolsets/OS",
+            "level": "Proficient",
+            "keywords": [
+        "Windows 10",
+        "Git/GitHub",
+        "Visual Studio",
+        "Adobe Brakets"
+
+      ]
+    },
+        {
+            "name": "Aviation",
+            "level": "Private Pilot Certificate",
+            "keywords": [
+        "Private Pilot Certificate held",
+        "Instrument Checkride Pending"
+      ]
+    }
+        
+  ],
+    "education": [
+        {
+            "institution": "University of Hawaii at Manoa",
+            "area": "Computer Science",
+            "studyType": "Bachelor's degree",
+            "startDate": "2022-08-01",
+            "endDate": "2023-05-01 (Expected)"
+        },
+        {
+            "institution": "University of Hawaii at Manoa",
+            "area": "Computer Science",
+            "studyType": "",
+            "startDate": "2015-05-01",
+            "endDate": "2019-01-01"
+        }
+    ],
+      "work": [
+        {
+            "company": "Optimum resolve inc",
+            "position": "Administrative Assistant",
+            "startDate": "2022-05-01",
+            "endDate": "Present",
+            "summary": "Performs clerical and administrative tasks to ensure the efficient operation of a Torrance CA based supplement manufacturing plant."
+        },
+
+        {
+            "company": "Microsoft",
+            "position": "Assisted Sales Associate",
+            "startDate": "2021-04-01",
+            "endDate": "2022-03-01",
+            "summary": "Assisted sales associate position at Microsoft in Honolulu, Hawaii, United States."
+        },
+        {
+            "company": "Microsoft",
+            "position": "Product Advisor",
+            "startDate": "2017-10-01",
+            "endDate": "2019-03-01",
+            "summary": "Product Advisor position at Microsoft, focusing on actively contributing to in-store business team and generating reports for store management."
+        },
+        {
+            "company": "Tommy Bahama",
+            "position": "Sales Associate",
+            "startDate": "2015-10-01",
+            "endDate": "2016-04-01",
+            "summary": "Sales associate position at Tommy Bahama in Honolulu, Hawaii."
+        },
+                  {
+            "company": "New Lima Enterprises Inc",
+            "position": "Founder",
+            "startDate": "2015-03-01",
+            "endDate": "2018-01-01",
+            "summary": "Founder of New Lima Enterprises Inc, based in Los Angeles, California."
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "One Village Foundation",
+            "website": "",
+            "position": "Organizer",
+            "startDate": "2016-01-01",
+            "endDate": "2017-01-01",
+            "summary": "Organized educational projects in underserved communities.",
+            "highlights": [
+            "provided educational resources to students in underserved communities."
+      ]
+    },
+  ], 
+    "references": [
+        {
+            "name": "Available upon request",
+            "reference": ""
+    }
+  ]
+}
