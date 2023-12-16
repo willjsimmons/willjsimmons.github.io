@@ -10,15 +10,24 @@ labels:
   - Software engineering
   - Team-Project
   - Issue-Driven Development
+  - Agile Development
 summary: My ongoing journey navigating the Pacific skies.
 ---
-<img class="img-fluid" src="https://es6-enthusiasts.github.io/images/tutorial/home.png">
+<img class="img-fluid" src="https://es6-enthusiasts.github.io/images/tutorial/cookbook.png">
 
+In fall of 2023 as part of a Software engineering course, a group of four students and I decided to develop a program to help connect college students with easy to make and nutritious recipes.
+We undertook this project in park to help develop our team skills and to learn and practice Agile and Issue-driven development. During the course of this project, all team members sharpened their mental tools
+And improved their Source Control, Javascript, and Meteor skills. Given that this project was developed mainly in javascript our team opted for the name ES6-Enthusiasts (ES or ecmascript being a variant of javascript).
+In the end our team met most of our goals, and maintained a copacetic, positive and effective environment.
 
 ## Why it matters.
 
-Aviation is a very unforgiving environment that requires incredible attention to detail, strong organizational skills, and an ability to multitask. While flying is challenging errors made in they air can result in deadly consequences. Software development is similar In that that there is often little room for error particularly for critical systems the costs are just as high.
+Developing team skills and learning the processes involved in working on complicated projects is essential. In addition to this, this project taught each of our team members how to be flexible, and to 
+efficiently address unexpected setbacks. Finally, This project is intended to help serve our community. From an ethics standpoint, it is the duty of any software engineer that can help people, to attempt to help others.
+While at semesters end, our project was not quite to the standard required for a full-fledged public facing application, the dream was there that some day this app may be of service to the collegiate community.
+## Future plans
 
-## future plans
+Although the project was very fruitful, due to life circumstances the team has no intention to support or maintain it. This being said, as of the time this post was written,
+the actual project can be visited at the following link [College Cuisine Connect](http://www.collegecuisineconnect.site). Additional info about our team can also be found at [ES6 Enthusiasts](http://www.collegecuisineconnect.site),
+and the project's web page can be found at [CCC Info Site](https://es6-enthusiasts.github.io/CollegeCuisineConnect/)
 
-As mentioned above my intentions are to continue to pursue my instrument, and subsequently my cimmercial and multi engine ratings. Ultimately a career at the airlines is the end goal.
